@@ -8,9 +8,7 @@ Project: Physical art project
 TODO: Start
 */
 
-var TEMPO;
-
-var padEndVectorDistance;
+var DRAG;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
@@ -58,7 +56,7 @@ function mouseDragged() {
 
 function keyPressed() {
   if (keyCode == 32) {
-    
+
   }
 }
 
