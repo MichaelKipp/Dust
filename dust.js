@@ -19,9 +19,9 @@ function setup() {
   height = windowHeight;
   createCanvas(width, height);
 
-  DRAG = .80;
-  NUM_PARTICLES = 20000;
-  TOP_SPEED = 10;
+  DRAG = .75;
+  NUM_PARTICLES = 12000;
+  TOP_SPEED = 20;
   BLAST_RADIUS = 50;
   BUBBLE_SIZE = 10;
 
